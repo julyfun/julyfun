@@ -1,11 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown    1 hr 31 mins          ████████████████▒░░░░░░░░   64.68 %
-TeX         17 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-fish        13 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-TSQL        13 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-BibTeX      2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
