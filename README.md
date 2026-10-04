@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown       14 hrs 13 mins        ███████████████░░░░░░░░░░   59.38 %
-Other          5 hrs 14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
-Python         2 hrs 6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-sshconfig      45 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-JavaScript     32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Markdown     9 hrs 11 mins         ████████████▓░░░░░░░░░░░░   50.64 %
+Other        4 hrs 57 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.31 %
+Python       2 hrs 6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+sshconfig    38 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+JavaScript   32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 
 <!--END_SECTION:waka-->
